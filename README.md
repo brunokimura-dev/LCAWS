@@ -1,11 +1,11 @@
 # LCAWS
 
-\- Description: this repository stores datasets and complementary material of a research project whose results are described in a paper currently submitted to the MPDPI Sensors Journal, section Physical Sensors, Environmental Sensors and Their Applications.
+This repository stores complementary material and datasets of a research project whose results are described in a paper currently submitted to the MDPI Sensors Journal, section Physical Sensors, Environmental Sensors and Their Applications.
 https://www.mdpi.com/journal/sensors/special_issues/environmental_sensors
 
 =============
 
-\- Status: under revision.
+\- Paper Status: under revision.
 
 \- Paper title: Prototyping Low-Cost Automatic Weather Stations for Natural Disaster Monitoring 
 
