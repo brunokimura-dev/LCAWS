@@ -12,7 +12,7 @@ https://www.mdpi.com/journal/sensors/special_issues/environmental_sensors
 
 \- Paper title: Prototyping Low-Cost Automatic Weather Stations for Natural Disaster Monitoring 
 
-\- Authors: Gabriel F. L. R. Bernardes(1), Rogério Ishibashi(2), André  Ivo(2), Valério Rosset(1), Bruno Y. L. Kimura(1*)
+\- Authors: Gabriel F. L. R. Bernardes (1), Rogério Ishibashi (2), André  Ivo (2), Valério Rosset (1), Bruno Y. L. Kimura (1*)
 
 (1) Institute of Science and Technology of the Federal University of São Paulo (UNIFESP), Brazil. 
 
