@@ -1,6 +1,6 @@
 # LCAWS
 
-Description: this repository stores datasets and complementary material of a research project whose results are described in a paper currently submitted to the MPDPI Sensors Journal, section Physical Sensors, Environmental Sensors and Their Applications.
+- Description: this repository stores datasets and complementary material of a research project whose results are described in a paper currently submitted to the MPDPI Sensors Journal, section Physical Sensors, Environmental Sensors and Their Applications.
 https://www.mdpi.com/journal/sensors/special_issues/environmental_sensors
 
 =============
